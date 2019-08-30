@@ -1,3 +1,3 @@
-#Image Classification
+#Image Classification #
 
-This is a custom image classification using Tensorflow utilizing transfer learning on pre-built models
+This is a custom image classification using Tensorflow (js) utilizing transfer learning on pre-built models
